@@ -1,0 +1,3 @@
+Name: NikoBads
+Age: 28
+Favorite Color: Black
